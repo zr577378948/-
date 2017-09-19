@@ -1,0 +1,2 @@
+com.chinasoft包下使用的是Statement实现的
+zr.com.chinasoft包下使用的是PreparedStatement实现的
